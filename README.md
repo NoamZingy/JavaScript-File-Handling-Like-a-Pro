@@ -50,6 +50,6 @@ Let’s keep learning and pushing the boundaries of what Node.js can do!
 
 ### 🧩 Contact
 Feel free to connect:
-- GitHub: [github.com/noamzingboim](https://github.com/NoamZingy)  
-- LinkedIn: [linkedin.com/in/noamzingboim](https://www.linkedin.com/in/noam-zingboim)
+- GitHub: [github.com/NoamZingy](https://github.com/NoamZingy)  
+- LinkedIn: [linkedin.com/in/noam-zingboim](https://www.linkedin.com/in/noam-zingboim)
 
