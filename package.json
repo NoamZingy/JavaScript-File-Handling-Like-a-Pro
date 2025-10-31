@@ -1,0 +1,22 @@
+{
+  "name": "javascript-file-handling-like-a-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "p-limit": "^7.1.1",
+    "unzipper": "^0.12.3",
+    "ws": "^8.18.3"
+  }
+}
